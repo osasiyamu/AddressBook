@@ -1,15 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="088a10dc-bea4-46c0-85e8-9df9b1f77c4f" name="Changes" comment="" />
+    <list default="true" id="088a10dc-bea4-46c0-85e8-9df9b1f77c4f" name="Changes" comment="Committing to my branch" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="Iyamu'sBranch" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2VoIuJg6LoVl504itbjfIrAprNf" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -20,7 +31,12 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
     "last_opened_file_path": "/Users/iyamu/Desktop/4th Year/SYSC3110/Labs",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -33,10 +49,41 @@
       <option name="presentableId" value="Default" />
       <updated>1695496227692</updated>
       <workItem from="1695496228789" duration="126000" />
+      <workItem from="1695498295166" duration="1089000" />
     </task>
+    <task id="LOCAL-00001" summary="New Directory">
+      <option name="closed" value="true" />
+      <created>1695498462650</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1695498462650</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Committing to my branch">
+      <option name="closed" value="true" />
+      <created>1695498694931</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1695498694931</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Committing to my branch">
+      <option name="closed" value="true" />
+      <created>1695498783458</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1695498783458</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="New Directory" />
+    <MESSAGE value="Committing to my branch" />
+    <option name="LAST_COMMIT_MESSAGE" value="Committing to my branch" />
   </component>
 </project>
